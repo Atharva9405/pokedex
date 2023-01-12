@@ -1,0 +1,6 @@
+.header img{
+    width:250px;
+    display:flex;
+    justify-content:space-between;
+    height:65px;
+}
